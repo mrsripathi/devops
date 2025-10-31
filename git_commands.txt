@@ -1,0 +1,27 @@
+git init : to initialize the git working area
+
+git add : move the file with changes  from working area to stage area
+
+git clone : use to clone the other repository to your current one
+
+git commit: use to the files with changes from stage area to commit area
+
+git add origin: 
+
+git branch: add the new branch 
+
+git checkout : use to switch branchs
+
+git log:
+
+
+git status:
+
+
+git push:
+
+git pull:
+
+
+
+
